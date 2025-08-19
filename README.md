@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ronaldsantos12/ronaldsantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Ronald Santos
 
-Here are some ideas to get you started:
+🎓 Estudante de programação do IFCE - CAMPUS ARACATI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por desenvolvimento e por resolver problemas com código  
+
+🚀 Sempre buscando aprender mais sobre linguagens e frameworks modernos
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Ronald Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldsantos12&show_icons=true&theme=tokyonight)
+
+## Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldsantos12&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
